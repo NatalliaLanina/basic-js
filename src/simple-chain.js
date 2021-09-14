@@ -2,7 +2,7 @@ import { NotImplementedError } from '../extensions/index.js';
 
 /**
  * Implement chainMaker object according to task description
- * 
+ * throw new NotImplementedError('Not implemented');
  */
 export default {
   getLength() {
